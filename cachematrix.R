@@ -1,5 +1,3 @@
-
-
 ## The makeCacheMatix function creates a vector containing a function
 ## 1. to set the value of the vector,
 ## 2. to get the value of the vector,
